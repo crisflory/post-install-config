@@ -2,14 +2,16 @@ Configure Roles:
 
 In the Admin Panel, navigate to Agents -> Roles.
 Create a "Supreme Admin" role.
-![image](https://github.com/crisflory/osticket-prereqs/assets/147748310/adb05839-8937-413f-a4e8-0ba05906ca31)
+
 
 Configure Departments:
 
 In the Admin Panel, go to Agents -> Departments.
-Configure the "System Administrators" department.
-Configure Teams:
+![image](https://github.com/crisflory/osticket-prereqs/assets/147748310/adb05839-8937-413f-a4e8-0ba05906ca31)
 
+Configure the "System Administrators" department.
+
+Configure Teams:
 In the Admin Panel, access Agents -> Teams.
 Create "Level I Support" and "Level II Support" teams.
 Allow anyone to create tickets:
